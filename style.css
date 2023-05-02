@@ -1,0 +1,13 @@
+.dropdown-menu {
+  list-style-type: none;
+  position: relative;
+  width: 60px;
+}
+
+.dropdown-menu > * {
+  position: absolute;
+}
+
+.invisible {
+  display: none;
+}
